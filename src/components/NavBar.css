@@ -1,0 +1,13 @@
+.navbar-brand{
+    padding-left: 10px;
+}
+.mr-20 {
+    margin-right: 20px;
+  }
+  .ml-auto {
+    margin-left:auto;
+    
+  }
+  .d-block {
+    display:block;
+  }

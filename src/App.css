@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#337ec5;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #181616;
+}
+#search-bar{
+    width: 80%;
+  height: 60px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 4px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+  margin: 0 auto;
+  display: block;
+}
+.space-taker{
+    height: 60px;
+}
+#bug-listing{
+
+}
