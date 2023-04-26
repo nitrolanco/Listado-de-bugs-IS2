@@ -73,3 +73,13 @@
   h1.space-taker{
     height: 10px;
   }
+  .btn-inspect{
+  
+    margin: 0;
+    position: sticky;
+    top: 100%;
+    left: 85%;
+    background-color: rgb(55, 41, 94);
+    -ms-transform: translate(0,  88%);
+    transform: translate( 0%, 88%);
+    }
